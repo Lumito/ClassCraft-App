@@ -1,4 +1,3 @@
-# ClassCraft-App
-Download the ClassCraft App for free!
+# ClassCraft App
 
 Click on the Clone or Download button to download the file
